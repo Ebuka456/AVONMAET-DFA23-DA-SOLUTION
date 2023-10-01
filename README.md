@@ -8,6 +8,8 @@ This repo contains the solution for the Data Analytics challenge of DFA23. The i
 
 - Link to Download the Power BI file: [Link](https://drive.google.com/file/d/1NrTUM7vBDQDpYaKsmfqqRx3gZ6NHDbiQ/view?usp=sharing)
 
+- Link to The interactive report can be seen here: [Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTlmYTJkYmEtMWZjMC00ZDU5LTlhNjMtYTExNjBhZTNlYTA2IiwidCI6IjUwZDA2MjZhLTcwN2UtNDk2ZC1iOGU1LTIwYjk1NzA5MTYzZSJ9)
+
 - Solution to Challenge **requirements 1 - 3** can be found [here](https://github.com/Ebuka456/AVONMAET-DFA23-DA-SOLUTION/blob/main/DFA23%20DA%20Solution/Datafest%20Africa%20Data%20Challenge.pdf)
 
 - Solution to challenge **requirements 4 & 5** can be found [here](https://github.com/Ebuka456/AVONMAET-DFA23-DA-SOLUTION/blob/main/DFA23%20DA%20Solution/Avon%20Maet%20Comprehensive%20DA%20report..pdf)
