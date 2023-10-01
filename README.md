@@ -2,6 +2,8 @@
 
 This repo contains the solution for the Data Analytics challenge of DFA23.
 
+![](https://github.com/Ebuka456/AVONMAET-DFA23-DA-SOLUTION/blob/main/DFA23%20DA%20Solution/240_F_630416831_NRky9dmEFi2efOrWNgxEDke3M56wODx0.jpg)
+
 ### Challenge Solutions:
 
 - Solution to Challenge **requirements 1 - 3** can be found [here](https://github.com/Ebuka456/AVONMAET-DFA23-DA-SOLUTION/blob/main/DFA23%20DA%20Solution/Datafest%20Africa%20Data%20Challenge.pdf)
