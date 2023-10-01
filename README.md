@@ -1,6 +1,6 @@
 # AVON MAET DFA23 Data Analytics Submission
 
-This repo contains the solution for the Data Analytics challenge of DFA23.
+This repo contains the solution for the Data Analytics challenge of DFA23. The interactive report can be seen here: [Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTlmYTJkYmEtMWZjMC00ZDU5LTlhNjMtYTExNjBhZTNlYTA2IiwidCI6IjUwZDA2MjZhLTcwN2UtNDk2ZC1iOGU1LTIwYjk1NzA5MTYzZSJ9)
 
 ![](https://github.com/Ebuka456/AVONMAET-DFA23-DA-SOLUTION/blob/main/DFA23%20DA%20Solution/240_F_630416831_NRky9dmEFi2efOrWNgxEDke3M56wODx0.jpg)
 
